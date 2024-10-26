@@ -1,0 +1,51 @@
+[
+    {
+        "id": "001",
+        "cover": "../src/assets/1.jpg",
+        "title": "The Lost City",
+        "author": "Jane Doe",
+        "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+        "posted_date": "2023-05-10",
+        "reading_time": 15,
+        "hashtags": ["#Adventure", "#Mystery"]
+    },
+    {
+        "id": "002",
+        "cover": "../src/assets/2.png",
+        "title": "Shadows of the Past",
+        "author": "John Smith",
+        "author_img": "https://randomuser.me/api/portraits/men/41.jpg",
+        "posted_date": "2023-06-15",
+        "reading_time": 20,
+        "hashtags": ["#Historical", "#Drama"]
+    },
+    {
+        "id": "003",
+        "cover": "../src/assets/3.png",
+        "title": "The Science of Dreams",
+        "author": "Emily Johnson",
+        "author_img": "https://randomuser.me/api/portraits/women/40.jpg",
+        "posted_date": "2023-07-20",
+        "reading_time": 10,
+        "hashtags": ["#Science", "#Psychology"]
+    },
+    {
+        "id": "004",
+        "cover": "../src/assets/4.jpg",
+        "title": "Journey to the Unknown",
+        "author": "Michael Brown",
+        "author_img": "https://randomuser.me/api/portraits/men/29.jpg",
+        "posted_date": "2023-08-05",
+        "reading_time": 25,
+        "hashtags": ["#Exploration", "#Adventure"]
+    },
+    {
+        "id": "005",
+        "cover": "../src/assets/1.jpg",
+        "author": "Sarah Wilson",
+        "author_img": "https://randomuser.me/api/portraits/women/52.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 30,
+        "hashtags": ["#Cooking", "#Food"]
+    }
+]
